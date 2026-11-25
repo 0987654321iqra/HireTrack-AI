@@ -7,3 +7,4 @@ function startApplication() {
 }
 
 startApplication();
+console.log("Building smarter recruitment solutions.");
